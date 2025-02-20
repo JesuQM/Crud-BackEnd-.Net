@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JQ\\Desktop\\CrudBackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B407E2C0-B292-4BE7-9F86-C2265506BD3D}|CrudBackEnd\\CrudBackEnd.csproj|c:\\users\\jq\\desktop\\crudbackend\\crudbackend\\controllers\\detallefacturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B407E2C0-B292-4BE7-9F86-C2265506BD3D}|CrudBackEnd\\CrudBackEnd.csproj|solutionrelative:crudbackend\\controllers\\detallefacturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B407E2C0-B292-4BE7-9F86-C2265506BD3D}|CrudBackEnd\\CrudBackEnd.csproj|c:\\users\\jq\\desktop\\crudbackend\\crudbackend\\models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B407E2C0-B292-4BE7-9F86-C2265506BD3D}|CrudBackEnd\\CrudBackEnd.csproj|solutionrelative:crudbackend\\models\\detallefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B407E2C0-B292-4BE7-9F86-C2265506BD3D}|CrudBackEnd\\CrudBackEnd.csproj|c:\\users\\jq\\desktop\\crudbackend\\crudbackend\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B407E2C0-B292-4BE7-9F86-C2265506BD3D}|CrudBackEnd\\CrudBackEnd.csproj|solutionrelative:crudbackend\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B407E2C0-B292-4BE7-9F86-C2265506BD3D}|CrudBackEnd\\CrudBackEnd.csproj|c:\\users\\jq\\desktop\\crudbackend\\crudbackend\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B407E2C0-B292-4BE7-9F86-C2265506BD3D}|CrudBackEnd\\CrudBackEnd.csproj|solutionrelative:crudbackend\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FacturasController.cs",
+              "DocumentMoniker": "C:\\Users\\JQ\\Desktop\\CrudBackEnd\\CrudBackEnd\\Controllers\\FacturasController.cs",
+              "RelativeDocumentMoniker": "CrudBackEnd\\Controllers\\FacturasController.cs",
+              "ToolTip": "C:\\Users\\JQ\\Desktop\\CrudBackEnd\\CrudBackEnd\\Controllers\\FacturasController.cs",
+              "RelativeToolTip": "CrudBackEnd\\Controllers\\FacturasController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwFMAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:13:42.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetalleFacturasController.cs",
+              "DocumentMoniker": "C:\\Users\\JQ\\Desktop\\CrudBackEnd\\CrudBackEnd\\Controllers\\DetalleFacturasController.cs",
+              "RelativeDocumentMoniker": "CrudBackEnd\\Controllers\\DetalleFacturasController.cs",
+              "ToolTip": "C:\\Users\\JQ\\Desktop\\CrudBackEnd\\CrudBackEnd\\Controllers\\DetalleFacturasController.cs",
+              "RelativeToolTip": "CrudBackEnd\\Controllers\\DetalleFacturasController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAkwI4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:02:17.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\JQ\\Desktop\\CrudBackEnd\\CrudBackEnd\\Models\\Factura.cs",
+              "RelativeDocumentMoniker": "CrudBackEnd\\Models\\Factura.cs",
+              "ToolTip": "C:\\Users\\JQ\\Desktop\\CrudBackEnd\\CrudBackEnd\\Models\\Factura.cs",
+              "RelativeToolTip": "CrudBackEnd\\Models\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T06:33:59.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetalleFactura.cs",
+              "DocumentMoniker": "C:\\Users\\JQ\\Desktop\\CrudBackEnd\\CrudBackEnd\\Models\\DetalleFactura.cs",
+              "RelativeDocumentMoniker": "CrudBackEnd\\Models\\DetalleFactura.cs",
+              "ToolTip": "C:\\Users\\JQ\\Desktop\\CrudBackEnd\\CrudBackEnd\\Models\\DetalleFactura.cs",
+              "RelativeToolTip": "CrudBackEnd\\Models\\DetalleFactura.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T03:57:00.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
